@@ -17,6 +17,7 @@ Technologies Used
 3. JavaScript (ES6+)
 
 Project Structure
+  
   src/
   │
   ├── components/
